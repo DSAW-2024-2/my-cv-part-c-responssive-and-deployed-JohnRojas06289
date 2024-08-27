@@ -1,4 +1,4 @@
-#Link a página: https://dsaw-2024-2.github.io/my-cv-part-c-responssive-and-deployed-JohnRojas06289/
+# Link a página: https://dsaw-2024-2.github.io/my-cv-part-c-responssive-and-deployed-JohnRojas06289/
 
 
 # Bienvenidos a la Tarea de HTML y CSS
