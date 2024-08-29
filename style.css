@@ -192,7 +192,7 @@ body {
     color: var(--black);
 }
 
-@media (max-width: 768px) {
+@media (max-width: 960px) {
     .All-Data {
         flex-direction: column;
         gap: 0; 
@@ -213,5 +213,13 @@ body {
 
     .Second-Info {
         max-height: 80vh;
+    }
+    
+    .main-data h1{
+        font-size: 2em;
+    }
+
+    .main-data h2{
+        font-size: 1.5em;
     }
 }
